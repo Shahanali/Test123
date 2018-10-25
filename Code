@@ -1,0 +1,23 @@
+
+#include "pch.h"
+#include <iostream>
+#include <iomanip>
+using namespace std;
+#include <algorithm> 
+
+using namespace std;
+
+
+int main () {
+	"read data" 
+	Vector <double> v;
+	double x;
+	while (cin >> x)
+	v.push_back)(x);
+	//sort it
+	sort(v.begin(), v.end ());
+	//print median 
+	cout << v.size
+	
+} 
+
